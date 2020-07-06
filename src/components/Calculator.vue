@@ -1,26 +1,31 @@
 <template>
   <div class="calculator">
+    
     <div class="display"> 498467414</div>
+
     <div class="operator">C</div>
     <div class="operator">+/-</div>
     <div class="operator">%</div>
     <div class="operator">÷</div>
+    
     <div class="btn">7</div>
     <div class="btn">8</div>
     <div class="btn">9</div>
     <div class="operator">x</div>
+    
     <div class="btn">4</div>
     <div class="btn">5</div>
     <div class="btn">6</div>
     <div class="operator">-</div>
+    
     <div class="btn">1</div>
     <div class="btn">2</div>
     <div class="btn">3</div>
     <div class="operator">+</div>
+    
     <div class="btn zero">0</div>
     <div class="btn">.</div>
     <div class="operator">=</div>
-
 
   </div>
 </template>
