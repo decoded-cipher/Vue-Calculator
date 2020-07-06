@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h2>My Vue Calculator</h2>
     <Calculator/>
   </div>
 </template>
