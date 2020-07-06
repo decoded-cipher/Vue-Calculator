@@ -14,3 +14,11 @@ export default {
   }
 }
 </script>
+
+<style>
+#app {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  margin-top: 120px;
+}
+</style>
